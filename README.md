@@ -8,7 +8,11 @@ https://github.com/ably/ably-js-react-native
 Then  replace the code of client.js and index.js with this repository's client.js and index.js
 
 The Game:
+
 Open 2 windows
+
 Select different players in each window.
+
 Players must work together to make same sign in at least one row.
+
 Player's turn is signified by the change of their environment.
