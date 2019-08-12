@@ -7,7 +7,9 @@ https://github.com/ably/ably-js-react-native
 
 Then  replace the code of client.js and index.js with this repository's client.js and index.js
 
-The Game:
+Copy contents of static_assets of the repository to static_assets of the Hello360 you setup
+
+# The Game:
 
 Open 2 windows
 
